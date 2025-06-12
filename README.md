@@ -11,10 +11,11 @@ I break down each component into different part where one code is dedicated to t
 ## Design Cycle
 ### My design cycle is...
 - Idea: First manifest an idea to create/add on to your project.
-- Prototype: Create a rough sketch/program on what this idea is suppose to do. Idealy code it outside of your product
+- Prototype: Create a rough sketch/program on what this idea is suppose to do. Idealy code it outside of your product.
 - Implementation: Implement the idea into your main product
 - Testing For bugs and tweaks: Change and Alter the code in your main program to ensure if it works properly
-- Save and Publish: Finished adding on an idea/ making a program. Back to the first step of the design cycle.
+- Polish: Ensure the code is well organized.
+- Save and Publish: Finished adding on an idea. Back to the first step of the design cycle.
 ## Functions:
 Currently there are two functions as of now being
 - Day Night Cycle through a buttons
