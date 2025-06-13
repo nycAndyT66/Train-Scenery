@@ -21,6 +21,7 @@ Currently there are two functions as of now being
 - Day Night Cycle through a buttons
 ### Random Events:
 - Boulder on a track
+![Image](https://github.com/user-attachments/assets/d809535c-625b-4f61-8603-6dde50647d5e)
 
 I am still looking for more ideas for functions that is nice to view or interactive.
 
