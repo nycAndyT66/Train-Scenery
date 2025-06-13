@@ -20,7 +20,7 @@ I break down each component into different part where one code is dedicated to t
 Currently there are two functions as of now being
 - Day Night Cycle through a buttons
 
-![Image](https://github.com/user-attachments/assets/085f8f03-81de-4b19-9c8d-1efebc0f40d4)
+![Image](https://github.com/user-attachments/assets/085f8f03-81de-4b19-9c8d-1efebc0f40d4 | width = 200)
 ### Random Events:
 - Boulder on a track
 
